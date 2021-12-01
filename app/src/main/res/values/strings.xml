@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">MyFirstApplication</string>
+    <string name="app_name" translatable="false">MyFirstCoolApplication</string>
+    <string name="greeting_activity">Greeting</string>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+    <string name="stranger">Stranger</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="press_for_greeting">Press for greeting</string>
 </resources>

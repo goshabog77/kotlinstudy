@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="greeting_activity">Приветствие</string>
+    <string name="hello">Привет</string>
+    <string name="name">Имя</string>
+    <string name="stranger">незнакомец</string>
+    <string name="input_your_name">Введите своё имя</string>
+    <string name="press_for_greeting">Нажмите для приветствия</string>
+</resources>
